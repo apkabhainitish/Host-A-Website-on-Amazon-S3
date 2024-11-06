@@ -105,7 +105,7 @@ Secure Uploading of Files: Allowing users to upload files to specific locations 
 Restricted Data Access: Providing temporary access to sensitive information or data without modifying the bucket’s or object’s default permissions.
 Pre-signed URLs offer secure, time-limited access to S3 objects and are ideal for situations where temporary access to data is required, providing control over data sharing without compromising the privacy of the bucket or object.
 
-# Bucket website endpoint
+# Bucket Website Endpoint
 
 A bucket website endpoint in Amazon S3 is a URL through which users can access a static website hosted on an S3 bucket. Amazon S3 allows buckets to be configured as static websites, making it possible to serve HTML, CSS, JavaScript, images, and other static content directly to users via the web.
 
